@@ -21,8 +21,7 @@ Provide implementation for various design patterns available in object oriented 
 ## Observer Pattern
 * Defines one-to-many dependency between objects.
 * When one object changes its state, all of its dependents are notified and updated automatically.
-* Publisher + Subscribers = Observer Pattern
-** Where publisher is a SUBJECT and subscriber is an OBSERVER
+* Publisher + Subscribers = Observer Pattern, where publisher is a SUBJECT and subscriber is an OBSERVER
 
 ## Decorator Pattern
 * Dynamically attaches additional responsibilities to an object.
